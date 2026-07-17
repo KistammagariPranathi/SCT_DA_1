@@ -81,7 +81,7 @@ README.md
 
 ## 👩‍💻 Author
 
-**Sadhana**
+**Pranathi**
 
 SkillCraft Technology Internship
 
